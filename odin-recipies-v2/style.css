@@ -1,0 +1,20 @@
+* {
+    background-color: #ECE3CE;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#title {
+    background-color: #3A4D39;
+    color: #ECE3CE;
+    text-align: center;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
