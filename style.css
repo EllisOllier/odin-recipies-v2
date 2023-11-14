@@ -13,10 +13,18 @@
 
 #subtitle {
     text-align: center;
+    border:#3A4D39 dotted 3px;
 }
 
 img {
     width: auto;
     height: auto;
+    border: #3A4D39 solid 2px;
+}
+
+.dishes-contianer{
+    border: #3A4D39 dashed 5px;
+    padding: 10px;
+    margin: -5px;
 }
 
